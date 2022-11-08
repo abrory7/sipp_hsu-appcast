@@ -4,8 +4,8 @@
         <title>SIPP HSU - Appcast</title>
         <item>
             <title>Version 1.15.0</title>
-            <description>
-            - Tambah fitur simpan data login<br/>- Fix bug login
+            <description>- Tambah fitur simpan data login
+                - Fix bug login
             </description>
             <pubDate>Tue, 1 Nov 2022 15:19:00 +0800</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="1.0.1" sparkle:os="android" />
