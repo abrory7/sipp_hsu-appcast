@@ -4,7 +4,7 @@
         <title>SIPP HSU - Appcast</title>
         <item>
             <title>Version 1.15.0</title>
-            <description>Merubah metode check in / out, dan perbaikan beberapa bug.</description>
+            <description>Mengubah metode check in / out, dan perbaikan beberapa bug.</description>
             <pubDate>Wed, 30 Nov 2022 15:00:00 +0800</pubDate>
             <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="1.0.4" sparkle:os="ios" />
         </item>
