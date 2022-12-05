@@ -4,7 +4,7 @@
         <title>SIPP HSU - Appcast</title>
         <item>
             <title>Version 1.15.0</title>
-            <description>Memperbaiki masalah saat pengambilan foto.</description>
+            <description>Perbaikan bug aplikasi.</description>
             <pubDate>Mon, 5 Dec 2022 17:00:00 +0800</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="1.1.1" sparkle:os="android" />
         </item>
