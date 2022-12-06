@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>SIPP HSU - Appcast</title>
+        <title>SIPP HSU Update</title>
         <item>
-            <title>Version 1.15.0</title>
+            <title>Version 1.1.1</title>
             <description>Perbaikan bug aplikasi.</description>
             <pubDate>Mon, 5 Dec 2022 17:00:00 +0800</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="1.1.1" sparkle:os="android" />
