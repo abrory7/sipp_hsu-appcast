@@ -3,10 +3,10 @@
     <channel>
         <title>SIPP HSU - Appcast</title>
         <item>
-            <title>Version 1.1.1</title>
-            <description>Perbaikan bug.</description>
-            <pubDate>Tue, 6 Dec 2022 18:00:00 +0800</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="1.1.1" sparkle:os="ios" />
+            <title>Versi 1.1.3</title>
+            <description>Penyesuaian dengan jam kerja shift, dan erbaikan bug.</description>
+            <pubDate>Tue, 10 Jan 2023 15:00:00 +0800</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="1.1.3" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
