@@ -3,10 +3,10 @@
     <channel>
         <title>SIPP HSU Update</title>
         <item>
-            <title>Versi 1.1.3</title>
-            <description>Penyesuaian dengan jam kerja shift, dan perbaikan bug.</description>
-            <pubDate>Mon, 5 Dec 2022 17:00:00 +0800</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="1.1.3" sparkle:os="android" />
+            <title>Versi 1.1.6</title>
+            <description>Memperbaiki permasalahan tidak bisa absen jika pernah mengajukan cuti untuk hari sebelumnya</description>
+            <pubDate>Mon, 2 Jan 2023 12:15:00 +0800</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="1.1.6" sparkle:os="android" />
         </item>
     </channel>
 </rss>
