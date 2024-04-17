@@ -4,7 +4,7 @@
         <title>Update Aplikasi SIPP HSU</title>
         <item>
             <title>Versi 2.2.0</title>
-            <description>Penyesuaian dan perbaikan aplikasi, dan preload resource SIPP V3</description>
+            <description>Penyesuaian dan perbaikan masalah pada aplikasi, dan preload resource SIPP V3</description>
             <pubDate>Wed, 17 April 2024 09:00:00 +0800</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.go.hsu.sipp" sparkle:version="2.2.0" sparkle:os="android" />
         </item>
