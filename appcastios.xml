@@ -3,10 +3,10 @@
     <channel>
         <title>Update Aplikasi SIPP HSU</title>
         <item>
-            <title>Versi 2.1.7</title>
-            <description>Menambah fitur login dengan biometrik / pola, dan optimalisasi saat menggunakan aplikasi</description>
-            <pubDate>Fri, 14 July 2023 10:00:00 +0800</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="2.1.7" sparkle:os="ios" />
+            <title>Versi 2.2.0</title>
+            <description>Penyesuaian dan perbaikan masalah pada aplikasi, dan preload resource SIPP V3</description>
+            <pubDate>Wed, 17 April 2024 09:00:00 +0800</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="2.2.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
