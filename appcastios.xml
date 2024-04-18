@@ -3,10 +3,10 @@
     <channel>
         <title>Update Aplikasi SIPP HSU</title>
         <item>
-            <title>Versi 2.2.0</title>
+            <title>Versi 2.2.1</title>
             <description>Penyesuaian dan perbaikan masalah pada aplikasi, dan preload resource SIPP V3</description>
             <pubDate>Wed, 17 April 2024 09:00:00 +0800</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="2.2.0" sparkle:os="ios" />
+            <enclosure url="https://apps.apple.com/us/app/sipp-hsu/id6444508870" sparkle:version="2.2.1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
